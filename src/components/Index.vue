@@ -1,16 +1,18 @@
 <template>
-  <div class="">
+  <div>
     <HeaderComponent />
     <ChartSection />
+    <Table />
   </div>
 </template>
 
 <script>
 import HeaderComponent from './HeaderComponent.vue'
 import ChartSection from './ChartSection.vue'
+import Table from './Table.vue'
 
 export default {
-  components: { HeaderComponent, ChartSection }
+  components: { HeaderComponent, ChartSection, Table }
 }
 </script>
 
