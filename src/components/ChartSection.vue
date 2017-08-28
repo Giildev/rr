@@ -2,7 +2,7 @@
   <div class="chart">
     <div class="container">
       <div class="row justify-content-md-center">
-        <div class="col-md-6 chart__position">
+        <div class="col-md-12 chart__position">
           <CommitChart height="200"/>
         </div>
       </div>

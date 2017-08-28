@@ -22,12 +22,12 @@ export default Line.extend({
         {
           label: 'Label',
           backgroundColor: '#82adff',
-          data: [1, 1, 2, 3, 4, 3, 2, 1, 1, 1, 2, 3]
+          data: [1, 1, 2, 3, 2, 3, 2, 1, 4, 1, 2, 3]
         },
         {
           label: 'Label 2',
           backgroundColor: '#fe5858',
-          data: [4, 8, 12, 8, 4, 8, 12, 8, 4, 8, 12, 8]
+          data: [4, 8, 12, 7, 9, 8, 12, 8, 9, 8, 12, 8]
         }
       ]
     })
